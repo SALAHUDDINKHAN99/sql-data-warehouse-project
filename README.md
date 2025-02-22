@@ -5,6 +5,6 @@ Building a modern data warehouse with SQL Server,including ETL processes, data m
 - - - -
 ## Data Architecture
 
-
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 - - - -
 ### **In process!!!**
