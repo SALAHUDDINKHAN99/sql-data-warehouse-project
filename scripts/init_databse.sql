@@ -15,7 +15,7 @@ WARNING:
 USE master;
 GO
 
--- Displayin all databases present
+-- Displaying all databases present
 SELECT name FROM sys.databases;
 
 -- Drop and recreate the 'DataWarehouse' database
